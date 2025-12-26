@@ -25,9 +25,6 @@ MonteCarlo_Portfolio_Project/
 │   └── Figures_Beyond_Black_Scholes/
 
 
----
-```text
-
 ## Module 1 — Monte Carlo From First Principles
 
 **Core idea:**  
