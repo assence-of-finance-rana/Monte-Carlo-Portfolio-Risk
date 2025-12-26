@@ -8,22 +8,22 @@ how assumptions shape markets, how models diverge from reality, and why hedging 
 The project is structured into **four conceptual modules**, each with its own mathematical, computational, and financial focus.
 
 ---
-
 ## Project Structure
 
+```text
 MonteCarlo_Portfolio_Project/
-│
 ├── Scripts/
-│ ├── Module1_MonteCarlo_from_scratch.py
-│ ├── Module2_Regime_Switching_MonteCarlo.py
-│ ├── Module3_Black_Scholes_Greeks&Options.py
-│ └── Module4_Model_Risk_Hedging_Errors.py
+│   ├── Module1_MonteCarlo_from_scratch.py
+│   ├── Module2_Regime_Switching_MonteCarlo.py
+│   ├── Module3_Black_Scholes_Greeks&Options.py
+│   └── Module4_Model_Risk_Hedging_Errors.py
 │
 ├── Outputs/
-│ ├── Figures_Monte_Carlo/
-│ ├── Figures_Markov_Chains/
-│ ├── Figures_Black_Scholes/
-│ └── Figures_Beyond_Black_Scholes/
+│   ├── Figures_Monte_Carlo/
+│   ├── Figures_Markov_Chains/
+│   ├── Figures_Black_Scholes/
+│   └── Figures_Beyond_Black_Scholes/
+
 
 
 
