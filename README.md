@@ -12,17 +12,17 @@ The project is structured into **four conceptual modules**, each with a clear ma
 ## Project Structure
 MonteCarlo_Portfolio_Project/
 │
-├── Scripts/
+├── Scripts
 │ ├── Module1_MonteCarlo_from_scratch.py
 │ ├── Module2_Regime_Switching_MonteCarlo.py
 │ ├── Module3_Black_Scholes_Greeks&Options.py
 │ └── Module4_Model_Risk_Hedging_Errors.py
 │
-└── Outputs/
-├── Figures_Monte_Carlo/
-├── Figures_Markov_Chains/
-├── Figures_Black_Scholes/
-└── Figures_Beyond_Black_Scholes/
+└── Outputs
+├── Figures_Monte_Carlo
+├── Figures_Markov_Chains
+├── Figures_Black_Scholes
+└── Figures_Beyond_Black_Scholes
 
 
 ---
