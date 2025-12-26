@@ -26,6 +26,7 @@ MonteCarlo_Portfolio_Project/
 
 
 ---
+```text
 
 ## Module 1 — Monte Carlo From First Principles
 
