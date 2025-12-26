@@ -25,14 +25,12 @@ MonteCarlo_Portfolio_Project/
 │   └── Figures_Beyond_Black_Scholes/
 
 
-
-
 ---
 
 ## Module 1 — Monte Carlo From First Principles
 
 **Core idea:**  
-Monte Carlo is not a pricing trick, it is a *probability engine*.
+Monte Carlo is not a pricing trick — it is a *probability engine*.
 
 ### What this module does
 - Builds Monte Carlo simulations **from scratch**
@@ -43,7 +41,7 @@ Monte Carlo is not a pricing trick, it is a *probability engine*.
 ### Key insights
 - Expectation emerges from chaos
 - Distributional thinking is more important than point forecasts
-- Pricing is secondary uncertainty is primary
+- Pricing is secondary — uncertainty is primary
 
 Monte Carlo is introduced here as the **foundation of everything that follows**, not as an add-on.
 
@@ -56,7 +54,7 @@ Markets do not live in one volatility regime.
 
 ### What this module does
 - Introduces **Markov chains** to model regime changes
-- Simulates switching between low and high volatility states
+- Simulates switching between low- and high-volatility states
 - Couples regime states with Monte Carlo price evolution
 - Demonstrates **path-dependence driven by hidden states**
 
@@ -72,7 +70,7 @@ Here, **Markov chains become the hero**, explaining why static assumptions fail.
 ## Module 3 — Black–Scholes, Greeks, and the Illusion of Stability
 
 **Core idea:**  
-Black–Scholes works beautifully under assumptions that rarely hold.
+Black–Scholes works beautifully — under assumptions that rarely hold.
 
 ### What this module does
 - Implements Black–Scholes option pricing
@@ -85,7 +83,7 @@ Black–Scholes works beautifully under assumptions that rarely hold.
 - Greeks assume a world where volatility is known and constant
 - Pricing accuracy does not imply hedging accuracy
 
-This module shows **why Black–Scholes is internally consistent yet externally fragile**.
+This module shows **why Black–Scholes is internally consistent — yet externally fragile**.
 
 ---
 
@@ -104,7 +102,7 @@ When volatility moves randomly, hedging breaks.
 - Identical options → radically different tail risks
 - Volatility smiles emerge naturally from stochastic volatility
 - Hedging errors accumulate even with continuous rebalancing
-- Model risk is not a bug it is structural
+- Model risk is not a bug — it is structural
 
 This module concludes the project by exposing the **limits of classical risk-neutral thinking**.
 
@@ -134,4 +132,9 @@ The journey moves from **points → paths → states → distributions → tail 
 - Stochastic volatility intuition
 - Hedging error analysis
 - Distributional and tail-risk thinking
+
+---
+
+
+
 
